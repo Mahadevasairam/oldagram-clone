@@ -39,8 +39,9 @@ header {
   margin: 2px 8px;
 }
 .icon {
+  padding: 5px;
   width: 18.65px;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 .icon:hover,
 .icon:active {
